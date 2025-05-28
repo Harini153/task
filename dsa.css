@@ -1,0 +1,29 @@
+.taskrout{
+    color: blueviolet;
+    background-color: rgb(133, 17, 59);height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items;:center
+}
+.buttoncolor{
+    color: brown;
+}
+.alingingdata{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;    
+}
+.aa{
+    color: brown;
+}
+.alingingdata{
+     display: flex;
+    justify-content: space-around;
+    border: 1px solid;    
+}
+.bb{
+    color:brown;
+}
+.cc{
+    color:brown;
+}
